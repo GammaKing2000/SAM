@@ -1,0 +1,9 @@
+numpy
+torch
+segment_anything
+torchvision
+opencv-python
+matplotlib
+PyQt5
+os
+https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
